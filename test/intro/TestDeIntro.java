@@ -1,4 +1,4 @@
-package test.Intro;
+package intro;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.Test;
